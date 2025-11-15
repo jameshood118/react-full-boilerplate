@@ -1,5 +1,4 @@
 // src/App.tsx
-import React from 'react';
 import DataFetcher from './components/DataFetcher';
 import ReduxCounter from './components/ReduxCounter';
 import { Box, Typography } from '@mui/material';
